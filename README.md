@@ -3,6 +3,6 @@
 - Currently working in Hyundai Motor India Ltd as a Manufacturing Specialist in Paint Shop.
 - 👀 Recently I have developed immense interest in Machine Learning and Deep Learning subjects which has even compelled me to open an account on GitHub.
 - I am a self-learnt ML/DL/Data Science Engineer with a Mechanical Background.
-- I believe that if your are an Engineer and are well versed in the field of Mathematics, you can learn ML/DL, for that you don't necessarily have to be a hardcore Software Engineer, but ofcourse need to have lot of programming skills.
+- I believe that if you are an Engineer and are well versed in the field of Mathematics, you can learn ML/DL, for that you don't necessarily have to be a hardcore Software Engineer, but ofcourse need to have lot of programming skills.
 - 🌱 I’m currently learning Tensorflow for building Deep Learning models.
 - 📫 You can reach me out at aashi.kolhar@gmail.com.
